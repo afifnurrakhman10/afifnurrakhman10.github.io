@@ -1,0 +1,9 @@
+{
+  "name": "Dokel - Layanan Dokter Keluarga",
+  "description": "Aplikasi layanan primer dokter keluarga dengan fitur konsultasi, homecare, dan laporan kesehatan keluarga.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
